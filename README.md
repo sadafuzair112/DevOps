@@ -1,1 +1,2 @@
 # DevOps
+development and operations
